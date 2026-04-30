@@ -194,7 +194,6 @@ dermAI/
 ├── data/                    # HAM10000 dataset (not committed)
 ├── train_model.py           # Full training pipeline
 ├── create_dummy_model.py    # Quick test model
-├── organize_data.py         # Dataset preparation script
 ├── requirements.txt
 ├── run.py
 └── .env                     # API keys (not committed)
@@ -223,14 +222,6 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ## 📄 License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
 ---
 
